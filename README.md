@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Biology student and aspiring data scientist 
 ## 🌟 My Projects
 
 - **HyperionDev Skills bootcamp:** I am currently completing a DfE-funded data science skills bootcamp with HyperionDev.
-- **scRNA-seq analysis** I am currently analysing scRNA-seq data as a part of my dissertation utilising the Python library scanpy.
+- **scRNA-seq analysis:** I am currently analysing scRNA-seq data as a part of my dissertation utilising the Python library scanpy.
 
 ---
 
